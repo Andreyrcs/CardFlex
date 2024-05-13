@@ -10,7 +10,7 @@ body{
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     gap: 24px;
-    background-image: url(./5590457.jpg);
+    background-image: url(./Assents/5590457.jpg);
     background-size: cover;
     
 }
@@ -76,7 +76,7 @@ body{
         height: 100vh;
         font-family: Arial, Helvetica, sans-serif;
         gap: 24px;
-        background-image: url(./5590457.jpg);
+        background-image: url(./Assents/5590457.jpg);
         background-size: cover;
     }
 }
